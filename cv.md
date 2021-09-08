@@ -8,3 +8,6 @@
 * **E-mail:** beajenius@yandex.ru
 * **Telegram:** @beaJeniuS
 
+## About myself
+I am working as a leading engineer in the department of Process Control Automation Systems.  
+
