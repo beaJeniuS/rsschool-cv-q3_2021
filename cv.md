@@ -24,3 +24,7 @@ I am working as a leading engineer in the department of Process Control Automati
 ### **Courses:**
 * JavaScript/Front-end in process
 * learn.javascript.ru in process
+
+## Languages
+* Russian - native
+* English  
