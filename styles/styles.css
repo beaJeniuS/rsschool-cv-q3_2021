@@ -1,0 +1,23 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 21px;
+    font-size: 1.0rem;
+    color: #1f5499;
+    background-color: var(--dark-gray-color);
+  }
+  
+  footer a {
+    text-decoration: none;
+    color: #1f5499;
+  }
+  
+  footer .github-png {
+    margin-right: 12px;
+  }
+  
+  .github-link {
+    display: flex;
+    align-items: center;
+  }
