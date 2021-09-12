@@ -38,6 +38,7 @@ body {
 }
 
 .header-name {
+  
   width: 50%;
 }
 
@@ -54,6 +55,7 @@ body {
 }
 
 .p-status {
+  
   text-align: right;
   font-size: 20px;
 }
