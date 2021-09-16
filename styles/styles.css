@@ -32,7 +32,6 @@
 	display: inline-block;
 }
 
-
 ul.contacts-list {
 	margin: 0;
 	padding: 4px;
@@ -65,20 +64,21 @@ ul.contacts-list li {
 	display: inline-block;
 	vertical-align: middle;
 	margin-left: 20px;
-	padding: 2px;
 	text-decoration: none;
 }
 
-.github-text-link {
-	display: inline-block;
-	vertical-align: middle;
-	line-height: 64px;
-	padding-left: 10px;
+.copyright-text {
+	width: 100%;
+	/*display: inline;*/
+	text-align: center;
 }
 
-/*.rsschool-link {
+.rsschool-link {
 	float: right;
+	margin-right: 20px;
 }
+
+
 /*
 .container-main {
 	font-size: 24px;
