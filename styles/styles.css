@@ -14,7 +14,7 @@
 
 .container-name-surname {
 	width: 100%;
-	height: 200px;
+	height: 100%;
 	background-color: #fecb00;
 	padding: 65px 50px;
 	text-transform: uppercase;
@@ -99,7 +99,7 @@ ul.languages-list li {
 	padding: 2px;
 	display: inline-block;
 	font-family: 'Gluten', cursive;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: bold;
 	color: #ffffff;
 	vertical-align: middle;
@@ -108,15 +108,17 @@ ul.languages-list li {
 
 .section-header-text {
 	width: 100%;
-	font-size: 40px;
+	font-size: 30px;
 	font-weight: bold;
 	font-family: 'Gluten', cursive;
+	text-align: center;
 	color: #ffffff;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	margin-bottom: 10px;
-	padding-left: 10px;	
+	padding-left: 0px;	
 	background-color: #d2691e;
+	overflow: hidden;
 
 /*	margin: 40px auto 20px;
 	padding: 5px 20px;
